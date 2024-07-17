@@ -1,6 +1,6 @@
 This Power BI project focuses on analyzing and visualizing credit card usage and customer data, offering insights into key metrics such as revenue, transaction amounts, customer satisfaction, and delinquent accounts.
 
-## Analysis Steps
+## Tasks and Actions
 1. Explored the dataset to comprehend its structure and contents
 2. Cleaned and preprocess the data to  prepare it for analysis
 3. Develop visualizations that highlight key findings in the data
